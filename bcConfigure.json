@@ -1,0 +1,24 @@
+{
+  "vectorDim": 2048,
+  "runningEpochs":10000,
+  "initShardsNum":64,
+  "initCmNodeNum":1000,
+  "initSmNodeNum":3000,
+  "initRlyNodeNum":2000,
+  "rateToHotShard":0.3,
+  "nodesLocations":["china","france","iceland","caoyuandushe"],
+  "randomSeed":40,
+  "initNsegment":8,
+  "inputPath":
+  "clusterPath":？
+}
+
+
+
+
+
+
+
+
+
+
